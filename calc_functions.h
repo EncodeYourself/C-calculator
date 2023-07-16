@@ -1,0 +1,1 @@
+double calculator(const std::string& input);
